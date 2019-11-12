@@ -1,8 +1,10 @@
-[
-  {
-    "id": 1, 
-    "country": "south africa", 
-    "city": "cape town", 
-    "name": "ruan"
-  }
-]
+{
+  "users": [
+    {
+      "id": 1, 
+      "country": "south africa", 
+      "city": "cape town", 
+      "name": "ruan"
+    }
+  ]
+}
